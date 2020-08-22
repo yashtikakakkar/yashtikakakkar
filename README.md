@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="./header.png" width=100%>
 
-<!--
-**yashtikakakkar/yashtikakakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="./end.gif" width='200'>
+<p align='left'>
+<h3><b> Hey there! I'm Yashtika Kakkar 🌼 </h3>
+<h4> I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India. 🚀 <br>
+I love to explore different fields of technology and you can check out my projects here! 🔥<br>
+Other than coding, I love to talk about underrated music, art and movies! ⭐</b></h4>
+</p>
+ 
+<p> <b> Reach out: </b> 
+    <a href="https://www.linkedin.com/in/yashtikakakkar">
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Yashtika Kakkar">
+    </a> 
+    <a href="https://github.com/yashtikakakkar">
+        <img src="https://img.shields.io/github/followers/yashtikakakkar.svg?label=GitHub&style=social" alt="GitHub Yashtika Kakkar">
+    </a> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

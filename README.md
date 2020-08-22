@@ -1,6 +1,7 @@
 ![header](https://user-images.githubusercontent.com/43854410/90960912-b635f800-e4c2-11ea-86ec-874994b48cdd.png)
 
-<img align='right' src="./end.gif" width='200'>
+<img align='right' src="end.gif" width='200'>
+
 <p align='left'>
 <h3><b> Hey there! I'm Yashtika Kakkar 🌼 </h3>
 <h4> I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India. 🚀 <br>

@@ -10,7 +10,7 @@ Other than coding, I love to talk about underrated music, art and movies! ⭐</b
 </p>
  
 <p> <b> Reach out: </b> 
-    <a href="https://www.linkedin.com/in/yashtikakakkar">
+    <a href="https://www.linkedin.com/in/yashtika-kakkar/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Yashtika Kakkar">
     </a> 
     <a href="https://github.com/yashtikakakkar">

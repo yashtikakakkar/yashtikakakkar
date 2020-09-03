@@ -16,5 +16,5 @@ Other than coding, I love to talk about underrated music, art and movies! ⭐</b
     <a href="https://github.com/yashtikakakkar">
         <img src="https://img.shields.io/github/followers/yashtikakakkar.svg?label=GitHub&style=social" alt="GitHub Yashtika Kakkar">
     </a> </p>
-![](https://komarev.com/ghpvc/?username=exactlyprateek&color=green&style=flat)
+![](https://komarev.com/ghpvc/?username=yashtikakakkar&color=green&style=flat)
 

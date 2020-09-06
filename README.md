@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/43854410/90960912-b635f800-e4c2-11ea-86ec-874994b48cdd.png)
 
-<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/end.gif?raw=true" width='230'>
+<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/end.gif?raw=true" width='200'>
 
 <p align='left'>
 <h3><b> Hey there! I'm Yashtika Kakkar 🌼 </h3>
@@ -17,4 +17,3 @@ Other than coding, I love to talk about underrated music, art and movies! ⭐</b
         <img src="https://img.shields.io/github/followers/yashtikakakkar.svg?label=GitHub&style=social" alt="GitHub Yashtika Kakkar">
     </a> </p>
     
-![](https://komarev.com/ghpvc/?username=yashtikakakkar&color=green&style=flat)

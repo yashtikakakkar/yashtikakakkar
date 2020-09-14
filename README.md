@@ -1,11 +1,12 @@
 ![header](https://user-images.githubusercontent.com/43854410/90960912-b635f800-e4c2-11ea-86ec-874994b48cdd.png)
 
-<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/end.gif?raw=true" width='200'>
+<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/end.gif?raw=true" width='230'>
 
 <p align='left'>
 <h3><b> Hey there! I'm Yashtika Kakkar 🌼 </h3>
 <h4> I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India. 🚀 <br>
 I love to explore different fields of technology and you can check out my projects here! 🔥<br>
+I have worked as a Web & Software Developer at Zaprey, New Delhi. 💻 <br>
 Other than coding, I love to talk about underrated music, art and movies! ⭐</b></h4>
 </p>
  

@@ -21,6 +21,6 @@ Other than coding, I love to talk about underrated music, art and movies! ⭐</b
         <img src="https://img.shields.io/badge/gmail--_.svg?style=social&logo=gmail" alt="Gmail Yashtika Kakkar">
     </a>
     <a href="https://github.com/yashtikakakkar">
-        <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Yashtika Kakkar">
+        <img src="https://img.shields.io/github/followers/yashtikakakkar.svg?label=GitHub&style=social" alt="GitHub Yashtika Kakkar">
     </a>  </p>
     

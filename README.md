@@ -5,7 +5,7 @@
 <p align='left'>
 <h3><b> Hey there! I'm Yashtika Kakkar 🌼 </h3>
 <h4> I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India. 🚀 <br>
-I love to explore different fields of technology and you can check out my projects <a href="https://github.com/yashtikakakkar">here</a>! 🔥<br>
+I love to explore different fields of technology and you can check out my projects <a href="https://github.com/yashtikakakkar?tab=repositories">here</a>! 🔥<br>
 I have worked as a Web & Software Developer at Zaprey, New Delhi. 💻 <br>
 Other than coding, I love to talk about underrated music, art and movies! ⭐</b></h4>
 </p>

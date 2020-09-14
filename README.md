@@ -11,9 +11,15 @@ Other than coding, I love to talk about underrated music, art and movies! ⭐</b
  
 <p> <b> Reach out: </b> 
     <a href="https://www.linkedin.com/in/yashtika-kakkar/">
-        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Yashtika Kakkar">
-    </a> 
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
+    </a>
+    <a href="https://t.me/abc_1300">
+        <img src="https://img.shields.io/badge/telegram--_.svg?style=social&logo=telegram" alt="Telegram Sonalika Roy">
+    </a>
+    <a href="mailto:yashtika2000@gmail.com">
+        <img src="https://img.shields.io/badge/gmail--_.svg?style=social&logo=gmail" alt="Gmail Sonalika Roy">
+    </a>
     <a href="https://github.com/yashtikakakkar">
-        <img src="https://img.shields.io/github/followers/yashtikakakkar.svg?label=GitHub&style=social" alt="GitHub Yashtika Kakkar">
-    </a> </p>
+        <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
+    </a>  </p>
     

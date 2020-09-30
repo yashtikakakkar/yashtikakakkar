@@ -7,7 +7,7 @@
 
 <h4> I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India. 🚀 <br>
 I love to explore different fields of technology and you can check out my projects <a href="https://github.com/yashtikakakkar?tab=repositories">here</a>! 🔥<br>
-I have worked as a Web Developer at Zaprey, New Delhi & as a Data Science & <br>Business Analyst at The Sparks Foundation, Singapore. 💻 <br>
+I have worked as a Web Developer at Zaprey, New Delhi and as a Data Science<br>and Business Analyst at The Sparks Foundation, Singapore. 💻 <br>
 Other than coding, I love to talk about underrated music, art and movies! ⭐</b></h4>
 </p>
  

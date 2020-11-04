@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/43854410/90960912-b635f800-e4c2-11ea-86ec-874994b48cdd.png)
 
-<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/mygif.gif?raw=true" width='275'>
+<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/mygif.gif?raw=true" width='270'>
 
 <p align='left'>
 <h3><b> Hey there! I'm <a href="https://yashtikakakkar.github.io/">Yashtika Kakkar</a> 🌼 </h3>

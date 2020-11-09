@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/43854410/90960912-b635f800-e4c2-11ea-86ec-874994b48cdd.png)
+![My Post](https://user-images.githubusercontent.com/43854410/98590461-dbcde300-22f4-11eb-9bde-20210f7b9e48.png)
 
 <img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/mygif.gif?raw=true" width='255'>
 

@@ -25,3 +25,4 @@ Other than coding, I love to talk about underrated music, art and movies! ⭐</b
         <img src="https://img.shields.io/github/followers/yashtikakakkar.svg?label=GitHub&style=social" alt="GitHub Yashtika Kakkar">
     </a>  </p>
     
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtikakakkar&show_icons=true&locale=en" alt="yashtikakakkar" /></p>

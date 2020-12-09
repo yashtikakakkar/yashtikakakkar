@@ -13,7 +13,7 @@
   <li> Zaprey, New Delhi as a Web and Software Development Intern 💻
   <li> The Sparks Foundation, Singapore as a Data Science and Business Analytics Intern 💻
  </ul>
- <li> Currently Contributor Lead at <a href="https://yashtikakakkar.github.io/">DevIncept</a> 💯
+ <li> Currently Contributor Lead at <a href="https://github.com/Learn-Write-Repeat">DevIncept</a> 💯
 <li> Other than coding, I love to talk about underrated music, art and movies! ⭐ </ul>
 </p>
  

@@ -14,7 +14,7 @@
   <li> Zaprey, New Delhi as a Web & Software Development Intern 💻
   <li> The Sparks Foundation, Singapore as a Data Science and Business Analytics Intern 💻
  </ul>
-<li> Currently Contributor Head at DevIncept 
+<li> Currently Contributor Lead at DevIncept 
 <li> Other than coding, I love to talk about underrated music, art and movies! ⭐ </ul></h4>
 </p>
  

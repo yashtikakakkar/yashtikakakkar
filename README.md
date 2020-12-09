@@ -5,17 +5,16 @@
 <p align='left'>
 <h3><b> Hey there! I'm <a href="https://yashtikakakkar.github.io/">Yashtika Kakkar</a> 🌼 </h3></b>
 
-<h4> 
 <ul>
 <li> I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India. 🚀
 <li> I love to explore different fields of technology and you can check out my projects <a href="https://yashtikakakkar.github.io/">here</a>! 🔥
 <li> I have interned at:
  <ul>
-  <li> Zaprey, New Delhi as a Web & Software Development Intern 💻
+  <li> Zaprey, New Delhi as a Web and Software Development Intern 💻
   <li> The Sparks Foundation, Singapore as a Data Science and Business Analytics Intern 💻
  </ul>
-<li> Currently Contributor Lead at DevIncept 
-<li> Other than coding, I love to talk about underrated music, art and movies! ⭐ </ul></h4>
+ <li> Currently Contributor Lead at <a href="https://yashtikakakkar.github.io/">DevIncept</a> 💯
+<li> Other than coding, I love to talk about underrated music, art and movies! ⭐ </ul>
 </p>
  
 <p> <b> Reach out: </b> 

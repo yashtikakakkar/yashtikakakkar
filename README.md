@@ -47,5 +47,5 @@
  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>    
  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtikakakkar&show_icons=true&locale=en&theme=dracula" alt="yashtikakakkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtikakakkar&show_icons=true&locale=en&theme=dracula&hide=issues&count_private=true" alt="yashtikakakkar" /></p>
 

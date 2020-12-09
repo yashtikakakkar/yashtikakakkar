@@ -1,6 +1,6 @@
 ![My Post](https://user-images.githubusercontent.com/43854410/98590461-dbcde300-22f4-11eb-9bde-20210f7b9e48.png)
 
-<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/mygif.gif?raw=true" width='255'>
+<!--<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/mygif.gif?raw=true" width='255'>-->
 
 <p align='left'>
 <h3><b> Hey there! I'm <a href="https://yashtikakakkar.github.io/">Yashtika Kakkar</a> 🌼 </h3>

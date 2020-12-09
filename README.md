@@ -3,13 +3,19 @@
 <!--<img align='right' src="https://github.com/yashtikakakkar/yashtikakakkar/blob/master/mygif.gif?raw=true" width='255'>-->
 
 <p align='left'>
-<h3><b> Hey there! I'm <a href="https://yashtikakakkar.github.io/">Yashtika Kakkar</a> 🌼 </h3>
+<h3><b> Hey there! I'm <a href="https://yashtikakakkar.github.io/">Yashtika Kakkar</a> 🌼 </h3></b>
 
 <h4> 
-- I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India. 🚀 <br>
-- I love to explore different fields of technology and you can check out my projects <a href="https://yashtikakakkar.github.io/">here</a>! 🔥<br>
-- I have worked as a Web Development Intern at Zaprey, New Delhi and as a Data Science and Business Analytics Intern at The Sparks Foundation, Singapore. 💻 <br>
-- Other than coding, I love to talk about underrated music, art and movies! ⭐</b></h4>
+<ul>
+<li> I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India. 🚀
+<li> I love to explore different fields of technology and you can check out my projects <a href="https://yashtikakakkar.github.io/">here</a>! 🔥
+<li> I have interned at:
+ <ul>
+  <li> Zaprey, New Delhi as a Web & Software Development Intern 💻
+  <li> The Sparks Foundation, Singapore as a Data Science and Business Analytics Intern 💻
+ </ul>
+<li> Currently Contributor Head at DevIncept 
+<li> Other than coding, I love to talk about underrated music, art and movies! ⭐ </ul></h4>
 </p>
  
 <p> <b> Reach out: </b> 

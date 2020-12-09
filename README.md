@@ -11,9 +11,9 @@
 <li> Currently Contributor Lead at <a href="https://github.com/Learn-Write-Repeat">DevIncept</a> 💯
 <li> I have interned at:
  <ul>
-  <li> The Sparks Foundation, Singapore as a Data Science and Business Analytics Intern (Sep 2020 - Oct 2020) 💻
-  <li> Zaprey, New Delhi as a Web and Software Development Intern (Apr 2020 - Jul 2020) 💻
-  <li> TechFest, IIT Bombay as a Web Development Trainee (Jan 2020 - Feb 2020) 💻
+  💻 The Sparks Foundation, Singapore as a Data Science and Business Analytics Intern (Sep 2020 - Oct 2020) <br>
+  💻 Zaprey, New Delhi as a Web and Software Development Intern (Apr 2020 - Jul 2020) <br>
+  💻 TechFest, IIT Bombay as a Web Development Trainee (Jan 2020 - Feb 2020) <br>
  </ul>
 <li> Other than coding, I love to talk about underrated music, art and movies! ⭐ </ul>
 </p>

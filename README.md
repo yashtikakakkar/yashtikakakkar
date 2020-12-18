@@ -7,7 +7,7 @@
 
 <ul>
 <li> I am a Web Developer, and a Data Science and Machine Learning Enthusiast from India 🚀
-<li> I love to explore different fields of technology and you can check out my projects <a href="https://yashtikakakkar.github.io/">here</a>! 🔥
+<li> I love to explore different fields of technology and you can check out my projects on my <a href="https://yashtikakakkar.github.io/">portfolio</a>! 🔥
 <li> Currently Contributor Lead at <a href="https://github.com/Learn-Write-Repeat">DevIncept</a> 💯
 <li> I have interned at:
  <ul>

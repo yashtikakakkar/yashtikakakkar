@@ -34,19 +34,23 @@
     
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>    
- <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img height="40px" width="40px"  src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
+<img height="45px" width="45px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/python.png"/>
+<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
+<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/css3.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/32/000000/sass.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
+<img height="39px" width="37px" src="https://img.icons8.com/color/96/000000/javascript.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/64/000000/react-native.png"/>
+<img height="45px" width="45px" src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<a href="https://opencv.org/" target="_blank"> <img height="38px" width="38px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>    
+<img height="38px" width="38px" src="https://img.icons8.com/nolan/100/visual-studio-code-2019.png"/>
+<img height="36px" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+<img height="37px" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+</p>
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtikakakkar&show_icons=true&locale=en&theme=dracula&hide=issues&count_private=true" alt="yashtikakakkar" /></p>
 

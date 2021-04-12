@@ -52,5 +52,5 @@
 <img height="37px" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 </p>
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtikakakkar&show_icons=true&locale=en&theme=dracula&hide=issues&count_private=true" alt="yashtikakakkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtikakakkar&show_icons=true&locale=en&theme=dracula&hide=stars,issues&count_private=true" alt="yashtikakakkar" /></p>
 

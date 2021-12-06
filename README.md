@@ -19,7 +19,7 @@
 <br>
 <p align='left'>
 <ul style='line-height: 150%;'>
-<li> I am currently working side projects and interests 🔥 
+<li> I am currently working on side projects and interests 🔥 
  <br><br>
 <li> I have been a part of:
  <ul>
